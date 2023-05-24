@@ -1,0 +1,7 @@
+config.py
+firebase/service-account-key.json
+__pycache__
+include
+Lib
+Scripts
+pyvenv.cfg
